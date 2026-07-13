@@ -1,4 +1,4 @@
-\# California Housing Price Predictor (Linear Regression)
+California Housing Price Predictor (Linear Regression)
 
 
 
@@ -6,13 +6,13 @@ An introductory Machine Learning project implementing the complete ML lifecycle�
 
 
 
-\## 🚀 Project Overview
+\##  Project Overview
 
 The goal of this project is to build a baseline Supervised Learning model utilizing Linear Regression to predict regional median house values (`MedHouseVal`) in California based on demographic and geographic features.
 
 
 
-\## 🛠️ Tech Stack \& Libraries
+\## Tech Stack \& Libraries
 
 &#x20;Language Python
 
@@ -22,7 +22,7 @@ The goal of this project is to build a baseline Supervised Learning model utiliz
 
 
 
-\## 📊 Key Results \& Performance
+\## Key Results \& Performance
 
 An 8020 traintest split was used to evaluate the model's predictive capabilities
 
@@ -42,7 +42,7 @@ An 8020 traintest split was used to evaluate the model's predictive capabilities
 
 
 
-\## 💡 Future Scope for Improvement
+\## Future Scope for Improvement
 
 1\. Non-Linear Models Transition from a baseline Linear Regression model to ensemble tree methods like Random Forest or XGBoost.
 
@@ -52,7 +52,7 @@ An 8020 traintest split was used to evaluate the model's predictive capabilities
 
 
 
-\## 📂 Repository Contents
+\## Repository Contents
 
 &#x20;`task1\_ml\_linear\_regression.ipynb` Complete Jupyter notebook containing the pipeline code and visual plots.
 
